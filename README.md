@@ -8,7 +8,7 @@
     🌱 Computer Science BS • Software Developer / Full-Stack Dev
     💻 Python • TypeScript • C++ • Java • Systems & Backend
     📖 Systems programming • Full-stack web • Gaming & utility tools
-    🎮 Overwatch @ UCR Gold • ⚽ Soccer • 🗾 English / 日本語
+    🎮 Overwatch • ⚽ Soccer • 🗾 English / 日本語
     🍵 Minecraft tooling 🍃 Self-hosted servers on Linux VPS
 </pre>
 <br><br>
@@ -67,18 +67,6 @@
 | 🔔 | [**Nudgy**](https://github.com/MrCheesePro/Nudgy) | Privacy-first desktop productivity daemon (Tauri + Rust + React) — tracks focus, syncs Canvas deadlines, plans your day |
 | 🚇 | [**urban-transit-monitor**](https://github.com/MrCheesePro/urban-transit-monitor) | MBTA GTFS-Realtime pipeline tracking reliability & delays |
 
-</div>
-
-<br>
-
-<h3 align="center">🍵 ── beyond the code ── 🍵</h3>
-
-<div align="center">
-<pre>
-  🎮 Competitive Overwatch — UCR Gold esports
-  ⚽ Soccer, on and off the pitch
-  🗾 Bilingual — English & 日本語
-</pre>
 </div>
 
 <br>
