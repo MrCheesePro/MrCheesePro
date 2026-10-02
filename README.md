@@ -1,11 +1,6 @@
 <div align="center">
 
-<!-- 
-  TO USE AN UPLOADED GIF:
-  1. Upload your GIF into your GitHub repository (e.g., place it in an "assets" folder).
-  2. Replace "assets/your-uploaded-gif.gif" below with your actual file path/name.
--->
-<img src="assets/your-uploaded-gif.gif" width="25%" align="right" />
+<img src="assets/my neighbor totoro GIF by Maudit.gif" width="25%" align="right" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=45&duration=4000&pause=300&color=78866B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there...;I'm+YK%2C+a+wandering+coder+%E2%99%A1" width="70%" />
 <br><br>
