@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=45&duration=4000&pause=300&color=78866B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there...;I'm+YK%2C+a+wandering+coder+%E2%99%A1" width="70%" />
 <br><br>
 <pre>
-    🌱 Computer Science @ UC Riverside • Software Developer / Full-Stack Dev
+    🌱 Computer Science BS • Software Developer / Full-Stack Dev
     💻 Python • TypeScript • C++ • Java • Systems & Backend
     📖 Systems programming • Full-stack web • Gaming & utility tools
     🎮 Overwatch @ UCR Gold • ⚽ Soccer • 🗾 English / 日本語
