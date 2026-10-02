@@ -1,5 +1,12 @@
 <div align="center">
-<img src="YOUR_CUSTOM_IMAGE_URL_OR_GIF" width="25%" align="right" />
+
+<!-- 
+  TO USE AN UPLOADED GIF:
+  1. Upload your GIF into your GitHub repository (e.g., place it in an "assets" folder).
+  2. Replace "assets/your-uploaded-gif.gif" below with your actual file path/name.
+-->
+<img src="assets/your-uploaded-gif.gif" width="25%" align="right" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=45&duration=4000&pause=300&color=78866B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there...;I'm+YK%2C+a+wandering+coder+%E2%99%A1" width="70%" />
 <br><br>
 <pre>
@@ -9,8 +16,6 @@
     🎮 Overwatch @ UCR Gold • ⚽ Soccer • 🗾 English / 日本語
     🍵 Minecraft tooling 🍃 Self-hosted servers on Linux VPS
 </pre>
-<br>
-<img src="<div style="width:100%;height:0;padding-bottom:150%;position:relative;"><iframe src="https://giphy.com/embed/IxlnMFrOLVNp6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/maudit-my-neighbor-totoro-IxlnMFrOLVNp6">via GIPHY</a></p>" height="40" />
 <br><br>
 
 [![](https://img.shields.io/badge/linkedin-YOUR_LINKEDIN-556B2F?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
