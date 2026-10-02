@@ -10,7 +10,7 @@
     🍵 Minecraft tooling 🍃 Self-hosted servers on Linux VPS
 </pre>
 <br>
-<img src="YOUR_FAVORITE_GHIBLI_PIXEL_OR_GIF_URL" height="40" />
+<img src="https://giphy.com/gifs/maudit-my-neighbor-totoro-IxlnMFrOLVNp6" height="40" />
 <br><br>
 
 [![](https://img.shields.io/badge/linkedin-YOUR_LINKEDIN-556B2F?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
