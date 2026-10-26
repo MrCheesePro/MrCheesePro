@@ -12,9 +12,9 @@
 </pre>
 <br><br>
 
-[![](https://img.shields.io/badge/linkedin-YOUR_LINKEDIN-556B2F?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamakim/)
-[![](https://img.shields.io/badge/discord-YOUR_DISCORD-6B8E23?style=flat&logo=discord&logoColor=white)](yk4880)
-[![](https://img.shields.io/badge/website-mrcheesepro.github.io-8FBC8F?style=flat&logo=firefox&logoColor=white)](https://portfolio.joshuyk.com/)
+[![](https://img.shields.io/badge/linkedin-https://www.linkedin.com/in/jamakim/-556B2F?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamakim/)
+[![](https://img.shields.io/badge/discord-yk4880-6B8E23?style=flat&logo=discord&logoColor=white)](yk4880)
+[![](https://img.shields.io/badge/website-https://portfolio.joshuyk.com/-8FBC8F?style=flat&logo=firefox&logoColor=white)](https://portfolio.joshuyk.com/)
 [![](https://img.shields.io/badge/github-MrCheesePro-78866B?style=flat&logo=github&logoColor=white)](https://github.com/MrCheesePro)
 </div>
 
